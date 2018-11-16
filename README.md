@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## To run this project
 
-ng add @angular/elements / npm install bootstrap / npm install firebase angularfire2 / npm install rxjs-compat@6 .
+ng add @angular/elements - npm install bootstrap - npm install firebase angularfire2 - npm install rxjs-compat@6 .
 
 ## Development server
 
